@@ -21,7 +21,7 @@ Inspired by [Wordle](https://www.nytimes.com/games/wordle/index.html) I made my 
 
 ### Live Site 
 
-Deployed site at: [Available here]()
+Deployed site at: [Available here](https://wordle2-six.vercel.app/)
 
 
 ### BUGS:

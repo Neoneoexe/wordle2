@@ -1,5 +1,6 @@
 {
-  "name": "wordle-clone-react",
+  "name": "wordle 2.0",
+  "author": "Albin Rushiti <albin.rushiti99@gmail.com>",
   "version": "0.1.0",
   "private": true,
   "scripts": {
