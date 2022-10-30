@@ -28,4 +28,4 @@ Deployed site at: [Available here](https://wordle2-six.vercel.app/)
 
 - None at the time being
 
-Submit a issue [here]() if you spot any bugs.
+Submit a issue [here](https://github.com/Neoneoexe/wordle2/issues) if you spot any bugs.
